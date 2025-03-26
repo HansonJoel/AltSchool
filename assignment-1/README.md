@@ -14,10 +14,9 @@ This is my first AltSchool assignment, where I created a simple web page showcas
 
 ## 📁 Project Structure
 
-```
-AltSchoolProfile/
-├── index.html
-```
+AltSchoolProfile/  
+└── assignment-1/  
+ └── index.html
 
 ## 🌐 How to View the Page
 
@@ -26,7 +25,7 @@ You can access the hosted version of the page using this link:
 
 ## 👨‍💻 Author
 
-- **Name:** [Joel Hanson]
+- **Name:** Joel Hanson
 - **AltSchool ID:** `ALT/SOE/025/0291`
 
 Feel free to reach out to me Ufor any feedback or suggestions! 🌟
