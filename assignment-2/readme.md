@@ -29,7 +29,7 @@ AltSchoolProfile/
 ## 🌐 How to View the Page
 
 You can access the hosted version of the page using this link:
-[🔗 Live Demo](https://hansonjoel.github.io/AltSchool/assignment-2/)
+[🔗 Live Demo](https://hansonjoel.github.io/AltSchool/assignment-2/table.html)
 
 ## 👨‍💻 Author
 
